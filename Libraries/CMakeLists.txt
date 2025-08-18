@@ -37,6 +37,7 @@ if(
     add_subdirectory(hipFFT)
     add_subdirectory(hipRAND)
     add_subdirectory(hipSOLVER)
+    add_subdirectory(hipSPARSELt)
     add_subdirectory(rocBLAS)
     add_subdirectory(rocFFT)
     add_subdirectory(rocPRIM)
